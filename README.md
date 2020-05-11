@@ -1,2 +1,2 @@
 # hthaw.github.io
-Yet another Personal Site
+Herman Thaw's Personal Site
