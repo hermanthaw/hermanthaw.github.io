@@ -1,2 +1,2 @@
 # hermanthaw.github.io
-My Personal Site
+sebuah blog
