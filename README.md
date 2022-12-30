@@ -1,2 +1,2 @@
 # hthaw.github.io
-sebuah blog
+a blog
