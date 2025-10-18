@@ -1,2 +1,2 @@
-# hermanthaw.github.io
+# herman.github.io
 a blog
